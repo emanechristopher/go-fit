@@ -1,9 +1,9 @@
 <?php
 // Informations de connexion à la base de données
-$host = 'localhost';       // ou '127.0.0.1'
-$dbname = 'go_fitness';
-$username = 'root';        // À adapter si tu utilises un autre utilisateur
-$password = '';            // À adapter aussi (souvent vide en local sous XAMPP/WAMP)
+$host = '	sql111.infinityfree.com';       // ou '127.0.0.1'
+$dbname = 'if0_39677540_gofitness';
+$username = 'if0_39677540';        // À adapter si tu utilises un autre utilisateur
+$password = 'FDeTgI60YTxru2';            // À adapter aussi (souvent vide en local sous XAMPP/WAMP)
 
 // Configuration des options PDO
 $options = [
